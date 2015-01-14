@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-mongodb-performance-monitor",
 	"description": "Tellki MongoDB performance monitor",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"keywords": ["tellki","monitor","mongodb","performance","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
