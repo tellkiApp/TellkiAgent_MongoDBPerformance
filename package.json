@@ -13,7 +13,7 @@
 		"tellki-mongodb-performance-monitor": "./bin/tellki-mongodb-performance-monitor"
 	},
 	"dependencies": {
-        "mongodb": "~2.0"
+        "mongodb": "~2.1.0"
 	},
 	"engines": {
 		"node": "*"
